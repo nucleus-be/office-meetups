@@ -13,5 +13,5 @@
 - [ ] notify concierge
 - [ ] order food / drinks
 - [ ] share parking space image on social media
-- [ ] ...
+- [x] ...
 - [ ] profit!
