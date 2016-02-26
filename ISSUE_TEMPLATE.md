@@ -6,4 +6,4 @@ Tweet : ?
 Joind.in page : ?
 RSVP rate : ?/50
 Parking space :
-![Parking space](office-meetups/parking_space.png)
+![Parking space](https://raw.githubusercontent.com/nucleus-be/office-meetups/master/parking_space.png)
