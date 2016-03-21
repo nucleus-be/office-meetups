@@ -12,6 +12,7 @@
 - [ ] share on social media
 - [ ] notify concierge
 - [ ] order food / drinks
+- [ ] send mail to coworkers
 - [ ] share parking space image on social media
 - [ ] ug flyers with directions
 - [x] ...
